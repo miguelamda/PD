@@ -1,0 +1,9 @@
++------------------------------------+
+| Nombre  |     Apellidos     | Nota |
++------------------------------------+
+| David   | Martinez Rojas    |  7.5 |
+| Juan    | Perez Vera        |  6.4 |
+| Manuel  | Durán Veleño      |  4.5 |
+| Miguel  | Pereila Rodriguez |  3.1 |
+| Sandra  | Sánchez Rojas     |  6.5 |
++------------------------------------+
